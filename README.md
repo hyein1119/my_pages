@@ -67,6 +67,3 @@ To view a live example, **[click here](https://varadbhogayata.github.io/)**
 #### Step 3
 
 - 🔃 Create a new pull request.
-
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
